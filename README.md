@@ -9,8 +9,8 @@
 5. [我知道的JS(四）](https://github.com/jinxin479/Note/issues/5)
 6. [0与-0](https://github.com/jinxin479/Note/issues/6)
 7. [原生 JavaScript 的比较问题](https://github.com/jinxin479/Note/issues/7)
-8.[正则表达式](https://github.com/jinxin479/Note/issues/8)
-9.[RXjs的一些基本概念](https://github.com/jinxin479/Note/issues/9)
+8. [正则表达式](https://github.com/jinxin479/Note/issues/8)
+9. [RXjs的一些基本概念](https://github.com/jinxin479/Note/issues/9)
 
 
 # 这个库用来记录个人学习笔记
