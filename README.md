@@ -11,6 +11,8 @@
 7. [原生 JavaScript 的比较问题](https://github.com/jinxin479/Note/issues/7)
 8. [正则表达式](https://github.com/jinxin479/Note/issues/8)
 9. [RXjs的一些基本概念](https://github.com/jinxin479/Note/issues/9)
+10. [RXjs操作符](https://github.com/jinxin479/Note/issues/10)
+
 
 
 # 这个库用来记录个人学习笔记
