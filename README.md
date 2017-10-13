@@ -12,7 +12,7 @@
 8. [正则表达式](https://github.com/jinxin479/Note/issues/8)
 9. [RXjs的一些基本概念](https://github.com/jinxin479/Note/issues/9)
 10. [RXjs操作符](https://github.com/jinxin479/Note/issues/10)
-11 [styled-components的使用](https://github.com/jinxin479/Note/issues/11)
+11. [styled-components的使用](https://github.com/jinxin479/Note/issues/11)
 
 
 
