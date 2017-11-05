@@ -17,6 +17,7 @@
 13. [Redux-saga名词解释和API 参考](https://github.com/jinxin479/Note/issues/13)
 14. [费耶·伊茨洗牌算法](https://github.com/jinxin479/Note/issues/14)
 15. [react context用法](https://github.com/jinxin479/Note/issues/15)
+16. [高阶reducer](https://github.com/jinxin479/Note/issues/16)
 
 # 这个库用来记录个人学习笔记
 ### 但凡有种种错误或者不当的地方，欢迎大家指出，感激不尽。
