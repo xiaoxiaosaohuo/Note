@@ -13,9 +13,9 @@
 9. [RXjs的一些基本概念](https://github.com/jinxin479/Note/issues/9)
 10. [RXjs操作符](https://github.com/jinxin479/Note/issues/10)
 11. [styled-components的使用](https://github.com/jinxin479/Note/issues/11)
-12. [TypeScript使用说明]（https://github.com/jinxin479/Note/issues/12）
-13. [Redux-saga名词解释和API 参考]（https://github.com/jinxin479/Note/issues/13）
-14. [费耶·伊茨洗牌算法]（https://github.com/jinxin479/Note/issues/14）
+12. [TypeScript使用说明](https://github.com/jinxin479/Note/issues/12)
+13. [Redux-saga名词解释和API 参考](https://github.com/jinxin479/Note/issues/13)
+14. [费耶·伊茨洗牌算法](https://github.com/jinxin479/Note/issues/14)
 
 # 这个库用来记录个人学习笔记
 ### 但凡有种种错误或者不当的地方，欢迎大家指出，感激不尽。
