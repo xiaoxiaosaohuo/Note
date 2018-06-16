@@ -19,7 +19,13 @@
 15. [react context用法](https://github.com/jinxin479/Note/issues/15)
 16. [高阶reducer](https://github.com/jinxin479/Note/issues/16)
 17. [Js隐式类型转换](https://github.com/jinxin479/Note/issues/17)
-18 .[为什么React的setState是异步的？](https://github.com/jinxin479/Note/issues/18)
+18. [为什么React的setState是异步的？](https://github.com/jinxin479/Note/issues/18)
+
+
+
+
+
+
 
 # 这个库用来记录个人学习笔记
 ### 但凡有种种错误或者不当的地方，欢迎大家指出，感激不尽。
