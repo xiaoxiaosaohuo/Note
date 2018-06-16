@@ -20,6 +20,7 @@
 16. [高阶reducer](https://github.com/jinxin479/Note/issues/16)
 17. [Js隐式类型转换](https://github.com/jinxin479/Note/issues/17)
 18. [为什么React的setState是异步的？](https://github.com/jinxin479/Note/issues/18)
+19. [HOC和renderProps互相转化](https://github.com/jinxin479/Note/issues/19)
 
 
 
