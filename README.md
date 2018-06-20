@@ -25,6 +25,8 @@
 21. [exports 和 module.exports 的区别](https://github.com/jinxin479/Note/issues/21)
 22. [一些实用工具？](https://github.com/jinxin479/Note/issues/22)
 23. [ES6的Reflect](https://github.com/jinxin479/Note/issues/23)
+24. [pipe和compose](https://github.com/jinxin479/Note/issues/24)
+
 
 
 
