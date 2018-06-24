@@ -26,6 +26,7 @@
 22. [一些实用工具？](https://github.com/jinxin479/Note/issues/22)
 23. [ES6的Reflect](https://github.com/jinxin479/Note/issues/23)
 24. [pipe和compose](https://github.com/jinxin479/Note/issues/24)
+25. [动手实现call和bind方法](https://github.com/jinxin479/Note/issues/25)
 
 
 
