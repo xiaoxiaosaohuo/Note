@@ -28,6 +28,7 @@
 24. [pipe和compose](https://github.com/jinxin479/Note/issues/24)
 25. [动手实现call和bind方法](https://github.com/jinxin479/Note/issues/25)
 26. [connect源码笔记](https://github.com/jinxin479/Note/issues/26)
+27. [indexOf和lastIndexOf的第二个参数](https://github.com/jinxin479/Note/issues/27)
 
 
 
