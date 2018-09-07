@@ -28,7 +28,12 @@
 24. [pipe和compose](https://github.com/jinxin479/Note/issues/24)
 25. [动手实现call和bind方法](https://github.com/jinxin479/Note/issues/25)
 26. [connect源码笔记](https://github.com/jinxin479/Note/issues/26)
-27. [indexOf和lastIndexOf的第二个参数](https://github.com/jinxin479/Note/issues/27)
+28. [indexOf和lastIndexOf的第二个参数](https://github.com/jinxin479/Note/issues/28)
+29. [mixin es6代码](https://github.com/jinxin479/Note/issues/29)
+30. [事件循环](https://github.com/jinxin479/Note/issues/30)
+31. [Vue 中的slot ](https://github.com/jinxin479/Note/issues/31)
+32. [缓存函数](https://github.com/jinxin479/Note/issues/32)
+33. [history源码笔记](https://github.com/jinxin479/Note/issues/33)
 
 
 
