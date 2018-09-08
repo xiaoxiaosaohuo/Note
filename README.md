@@ -21,6 +21,20 @@
 17. [Js隐式类型转换](https://github.com/jinxin479/Note/issues/17)
 18. [为什么React的setState是异步的？](https://github.com/jinxin479/Note/issues/18)
 19. [HOC和renderProps互相转化](https://github.com/jinxin479/Note/issues/19)
+20. [snabbdom的一些概念](https://github.com/jinxin479/Note/issues/20)
+21. [exports 和 module.exports 的区别](https://github.com/jinxin479/Note/issues/21)
+22. [一些实用工具？](https://github.com/jinxin479/Note/issues/22)
+23. [ES6的Reflect](https://github.com/jinxin479/Note/issues/23)
+24. [pipe和compose](https://github.com/jinxin479/Note/issues/24)
+25. [动手实现call和bind方法](https://github.com/jinxin479/Note/issues/25)
+26. [connect源码笔记](https://github.com/jinxin479/Note/issues/26)
+28. [indexOf和lastIndexOf的第二个参数](https://github.com/jinxin479/Note/issues/28)
+29. [mixin es6代码](https://github.com/jinxin479/Note/issues/29)
+30. [事件循环](https://github.com/jinxin479/Note/issues/30)
+31. [Vue 中的slot ](https://github.com/jinxin479/Note/issues/31)
+32. [缓存函数](https://github.com/jinxin479/Note/issues/32)
+33. [history源码笔记](https://github.com/jinxin479/Note/issues/33)
+
 
 
 
