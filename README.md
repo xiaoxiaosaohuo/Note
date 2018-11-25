@@ -42,6 +42,7 @@
 36. [React Fiber工作原理和相关概念](https://github.com/jinxin479/Note/issues/39)
 37. [React Component相关 ](https://github.com/jinxin479/Note/issues/40)
 38. [React setState机制](https://github.com/jinxin479/Note/issues/41)
+38. [React Reconciliation](https://github.com/jinxin479/Note/issues/42)
 
 
 
