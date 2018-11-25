@@ -39,6 +39,9 @@
 36. [React 事件（一） 事件介绍和初始化](https://github.com/jinxin479/Note/issues/36)
 37. [React事件（二）SyntheticEvent 介绍 ](https://github.com/jinxin479/Note/issues/37)
 38. [React事件（三）注册，分发，处理和回收](https://github.com/jinxin479/Note/issues/38)
+36. [React Fiber工作原理和相关概念](https://github.com/jinxin479/Note/issues/39)
+37. [React Component相关 ](https://github.com/jinxin479/Note/issues/40)
+38. [React setState机制](https://github.com/jinxin479/Note/issues/41)
 
 
 
