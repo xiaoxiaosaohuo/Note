@@ -45,7 +45,7 @@
 42. [React Reconciliation](https://github.com/jinxin479/Note/issues/42)
 43. [React深入分析(1)](https://github.com/jinxin479/Note/issues/43)
 44. [深入分析React(2）更新过程](https://github.com/jinxin479/Note/issues/44)
-45. [commonjs原理](https://github.com/jinxin479/Note/issues/45)
+45. [CommonJS模块加载机制](https://github.com/jinxin479/Note/issues/45)
 
 
 
