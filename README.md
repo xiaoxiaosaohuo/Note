@@ -39,10 +39,15 @@
 36. [React 事件（一） 事件介绍和初始化](https://github.com/jinxin479/Note/issues/36)
 37. [React事件（二）SyntheticEvent 介绍 ](https://github.com/jinxin479/Note/issues/37)
 38. [React事件（三）注册，分发，处理和回收](https://github.com/jinxin479/Note/issues/38)
-36. [React Fiber工作原理和相关概念](https://github.com/jinxin479/Note/issues/39)
-37. [React Component相关 ](https://github.com/jinxin479/Note/issues/40)
-38. [React setState机制](https://github.com/jinxin479/Note/issues/41)
-38. [React Reconciliation](https://github.com/jinxin479/Note/issues/42)
+39. [React Fiber工作原理和相关概念](https://github.com/jinxin479/Note/issues/39)
+40. [React Component相关 ](https://github.com/jinxin479/Note/issues/40)
+41. [React setState机制](https://github.com/jinxin479/Note/issues/41)
+42. [React Reconciliation](https://github.com/jinxin479/Note/issues/42)
+43. [React深入分析(1)](https://github.com/jinxin479/Note/issues/43)
+44. [深入分析React(2）更新过程](https://github.com/jinxin479/Note/issues/44)
+45. [commonjs原理](https://github.com/jinxin479/Note/issues/45)
+
+
 
 
 
