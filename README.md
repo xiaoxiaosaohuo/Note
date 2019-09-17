@@ -34,6 +34,18 @@
 31. [Vue 中的slot ](https://github.com/jinxin479/Note/issues/31)
 32. [缓存函数](https://github.com/jinxin479/Note/issues/32)
 33. [history源码笔记](https://github.com/jinxin479/Note/issues/33)
+34. [React Components, Elements, and Instances 概念 ](https://github.com/jinxin479/Note/issues/34)
+35. [从JSX到React Element ](https://github.com/jinxin479/Note/issues/35)
+36. [React 事件（一） 事件介绍和初始化](https://github.com/jinxin479/Note/issues/36)
+37. [React事件（二）SyntheticEvent 介绍 ](https://github.com/jinxin479/Note/issues/37)
+38. [React事件（三）注册，分发，处理和回收](https://github.com/jinxin479/Note/issues/38)
+39. [React Fiber工作原理和相关概念](https://github.com/jinxin479/Note/issues/39)
+40. [React Component相关 ](https://github.com/jinxin479/Note/issues/40)
+41. [React setState机制](https://github.com/jinxin479/Note/issues/41)
+42. [React Reconciliation](https://github.com/jinxin479/Note/issues/42)
+43. [React深入分析(1)](https://github.com/jinxin479/Note/issues/43)
+44. [深入分析React(2）更新过程](https://github.com/jinxin479/Note/issues/44)
+45. [CommonJS模块加载机制](https://github.com/jinxin479/Note/issues/45)
 
 
 
@@ -42,6 +54,5 @@
 
 
 
-# 这个库用来记录个人学习笔记
-### 但凡有种种错误或者不当的地方，欢迎大家指出，感激不尽。
-### 欢迎交流
+
+
