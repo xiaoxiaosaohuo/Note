@@ -73,7 +73,10 @@
 61. [Asap原理分析](https://github.com/xiaoxiaosaohuo/Note/issues/68)
 62. [Promise/A+源码分析](https://github.com/xiaoxiaosaohuo/Note/issues/69)
 63. [Tapable使用方式](https://github.com/xiaoxiaosaohuo/Note/issues/70)
-63. [Tapable最佳实践](https://github.com/xiaoxiaosaohuo/Note/issues/71)
+64. [Tapable最佳实践](https://github.com/xiaoxiaosaohuo/Note/issues/71)
+65. [Tapable原理分析（一）](https://github.com/xiaoxiaosaohuo/Note/issues/72)
+66. [Tapable原理分析（二）](https://github.com/xiaoxiaosaohuo/Note/issues/73)
+
 
 
 
