@@ -71,8 +71,8 @@
 59. [react-router原理](https://github.com/xiaoxiaosaohuo/Note/issues/66)
 60. [Flutter中的Future](https://github.com/xiaoxiaosaohuo/Note/issues/67)
 61. [Asap原理分析](https://github.com/xiaoxiaosaohuo/Note/issues/68)
-
-
+62. [Promise/A+源码分析](https://github.com/xiaoxiaosaohuo/Note/issues/69)
+63. [Tapable使用方式](https://github.com/xiaoxiaosaohuo/Note/issues/70)
 
 
 
